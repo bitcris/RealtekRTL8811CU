@@ -29,7 +29,7 @@ Caso apareça um id diferente, pode não funcionar  ____________________________
   
     
 ATUALIZE OS PACOTES DO SISTEMA
-<pre>sudo apt update && sudo apt upgrade</pre>______________________________<br><br>
+<code>sudo apt update && sudo apt upgrade</code>______________________________<br><br>
 
 
 PACOTES NECESSÁRIOS
