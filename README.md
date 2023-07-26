@@ -1,6 +1,9 @@
 # Realtek RTL8811CU for Ubuntu 22.04
 Driver Realtek RTL8811CU para Linux Ubuntu
 Testado no kernel 5.19.0-50
+<br>
+Se você está usando tradutor nesta página, poderá encontrar erros nos comandos <br>
+recomendo acessar o <a href="https://meuip.tk">site</a> para códigos mais precisos
 
 VERIFIQUE SE EXISTE ALGUM DRIVER INSTALADO COM O COMANDO
 <pre>sudo dkms status</pre>______________________________<br><br>
