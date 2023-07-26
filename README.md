@@ -54,7 +54,9 @@ sudo ./install-driver.sh
 
 
 #########################################################################
+
 #INSTALAÇÃO MANUAL
+
 #SIGA OS COMANDO ABAIXO SE NÃO QUISER EXECUTAR O SCRIPT
 
 make clean
