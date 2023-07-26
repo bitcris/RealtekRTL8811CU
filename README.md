@@ -7,7 +7,7 @@ recomendo acessar o <a href="https://meuip.tk">site</a> para códigos mais preci
 coloque o idioma da página em inglês, ou desative a tradução
 
 VERIFIQUE SE EXISTE ALGUM DRIVER INSTALADO COM O COMANDO
-<code>sudo dkms status</code>______________________________<br><br>
+<pre>sudo dkms status</pre>______________________________<br><br>
 
 SE APARECEER ALGUM DRIVER SEGUDO DE "installed" <br>
 POR EXEMPLO: <br>
@@ -30,7 +30,7 @@ Caso apareça um id diferente, pode não funcionar  ____________________________
   
     
 ATUALIZE OS PACOTES DO SISTEMA
-<code>sudo apt update && sudo apt upgrade</code>______________________________<br><br>
+<pre>sudo apt update && sudo apt upgrade</pre>______________________________<br><br>
 
 
 PACOTES NECESSÁRIOS
