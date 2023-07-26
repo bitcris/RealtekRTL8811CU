@@ -6,7 +6,7 @@ Se você está usando tradutor nesta página, poderá encontrar erros nos comand
 recomendo acessar o <a href="https://meuip.tk">site</a> para códigos mais precisos
 
 VERIFIQUE SE EXISTE ALGUM DRIVER INSTALADO COM O COMANDO
-<pre>sudo dkms status</pre>______________________________<br><br>
+<code>sudo dkms status</code>______________________________<br><br>
 
 SE APARECEER ALGUM DRIVER SEGUDO DE "installed" <br>
 POR EXEMPLO: <br>
