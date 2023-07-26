@@ -14,7 +14,7 @@ POR EXEMPLO: <br>
 <span>rtl8821bu/5.12.0.4, 5.19.0-50-generic, x86_64: installed</span> <br>
 VOCÊ DEVE REMOVER PARA NÃO DAR CONFLITOS <br>
 DIGITE: <br>
-<pre>sudo dkms remove rtl88x2bu/5.12.0.4 --all</pre>______________________________<br><br>
+<pre>sudo dkms remove rtl88x2bu/5.12.0.4 --all</pre>
 
 SUBSTITUA PELO DRIVER QUE APARECE NO SEU TERMINAL <br>
 
