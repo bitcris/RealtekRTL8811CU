@@ -25,7 +25,7 @@ VERIFIQUE O ID DO DRIVER
 procure se alguma linha corresponde a isto <br>
 <span>Bus 001 Device 002: ID 0bda:c811 Realtek Semiconductor Corp. 802.11ac NIC</span> <br>
 
-Caso apareça um id diferente, pode não funcionar  ______________________________<br><br>
+Caso apareça um id diferente, pode não funcionar <br> ______________________________<br><br>
 
   
     
