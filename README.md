@@ -2,6 +2,16 @@
 Driver Realtek RTL8811CU para Linux Ubuntu
 Testado no kernel 5.19.0-50
 
+
+
+Arquiteturas de  CPU compatíveis
+x86, i686
+x86-64, amd64
+armv6l, armv7l (arm)
+aarch64 (arm64)
+
+
+
 <br>
 Se você está usando tradutor nesta página, poderá encontrar erros nos comandos <br>
 recomendo acessar o <a href="https://meu-ip.ddns.net/posts/RealtekRTL8811CU.php">site</a> para códigos mais precisos <br>
