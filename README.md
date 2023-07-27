@@ -51,7 +51,7 @@ ABRE O DIRETÓRIO DO DRIVER
 
 
 
-<span style="color: #ff0000;">ATENÇÃO ESTE SCRIPT VAI SOLICITAR REINICIAR O COMPUTADOR</span><br>
+<span style="font-weight: bold;">ATENÇÃO ESTE SCRIPT VAI SOLICITAR REINICIAR O COMPUTADOR</span><br>
 EXECUTA O SCRIPT DE INSTALAÇÃO
 VOCÊ PODE PULAR A REINICIALIZAÇÃO, MAS RECOMENDA-SE REINICIAR
 <pre>sudo ./install-driver.sh</pre> ______________________________<br><br>
