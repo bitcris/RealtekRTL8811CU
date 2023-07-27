@@ -4,11 +4,11 @@ Testado no kernel 5.19.0-50
 
 
 
-<b>Arquiteturas de  CPU compatíveis<b> <br>
+<b>Arquiteturas de  CPU compatíveis</b> <br><br>
 x86, i686
 x86-64, amd64
 armv6l, armv7l (arm)
-aarch64 (arm64)
+aarch64 (arm64) <br>
 
 
 
