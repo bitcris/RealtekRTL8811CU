@@ -1,11 +1,7 @@
 # Realtek RTL8811CU for Ubuntu 22.04
 Driver Realtek RTL8811CU para Linux Ubuntu
 Testado no kernel 5.19.0-50
-<style>
-  span{
-    color: red;
-  }
-</style>
+
 <br>
 Se você está usando tradutor nesta página, poderá encontrar erros nos comandos <br>
 recomendo acessar o <a href="https://meu-ip.ddns.net/posts/RealtekRTL8811CU.php">site</a> para códigos mais precisos <br>
@@ -55,7 +51,7 @@ ABRE O DIRETÓRIO DO DRIVER
 
 
 
-<span>ATENÇÃO ESTE SCRIPT VAI SOLICITAR REINICIAR O COMPUTADOR</span><br>
+<span style="color: #ff0000;">ATENÇÃO ESTE SCRIPT VAI SOLICITAR REINICIAR O COMPUTADOR</span><br>
 EXECUTA O SCRIPT DE INSTALAÇÃO
 VOCÊ PODE PULAR A REINICIALIZAÇÃO, MAS RECOMENDA-SE REINICIAR
 <pre>sudo ./install-driver.sh</pre> ______________________________<br><br>
