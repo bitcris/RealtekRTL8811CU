@@ -1,6 +1,11 @@
 # Realtek RTL8811CU for Ubuntu 22.04
 Driver Realtek RTL8811CU para Linux Ubuntu
 Testado no kernel 5.19.0-50
+<style>
+  span{
+    color: red;
+  }
+</style>
 <br>
 Se você está usando tradutor nesta página, poderá encontrar erros nos comandos <br>
 recomendo acessar o <a href="https://meu-ip.ddns.net/posts/RealtekRTL8811CU.php">site</a> para códigos mais precisos <br>
@@ -9,7 +14,7 @@ ou coloque o idioma da página em inglês, ou desative a tradução
 VERIFIQUE SE EXISTE ALGUM DRIVER INSTALADO COM O COMANDO
 <pre>sudo dkms status</pre>______________________________<br><br>
 
-SE APARECEER ALGUM DRIVER SEGUDO DE "installed" <br>
+SE APARECEER ALGUM DRIVER SEGUIDO DE "installed" <br>
 POR EXEMPLO: <br>
 <span>rtl8821bu/5.12.0.4, 5.19.0-50-generic, x86_64: installed</span> <br>
 VOCÊ DEVE REMOVER PARA NÃO DAR CONFLITOS <br>
@@ -57,7 +62,7 @@ VOCÊ PODE PULAR A REINICIALIZAÇÃO, MAS RECOMENDA-SE REINICIAR
 
 
 AO EXECUTAR O SCRIPT DE INSTALAÇÃO VAI CARREGAR O ARQUIVO DE CONFIGURAÇÃAO DO DRIVER NO EDITOR NANO, BASTA DIGITAR "ctrl+x" E DEPOIS "enter"<br>
-CONFIRMAR O REINÍCIO DO COMPUTADOR COM "y" QUANDO SOLICITADO <br><br>APÓS O REINÍCIO VERIFIQUE SE O WI-FI DO COMPUTADOR ETSTÁ ATIVO <br>______________________________<br><br>
+CONFIRMAR O REINÍCIO DO COMPUTADOR COM "y" QUANDO SOLICITADO <br><br>APÓS O REINÍCIO VERIFIQUE SE O WI-FI DO COMPUTADOR ESTÁ ATIVO <br>______________________________<br><br>
 
 <br><br>
 <span>INSTALAÇÃO MANUAL</span> <br>
@@ -67,7 +72,7 @@ SIGA OS COMANDO ABAIXO SE NÃO QUISER EXECUTAR O SCRIPT
 <pre>make</pre>
 <pre>sudo make install</pre>
 
-ESPERE OS PROCESSOS TERMINAREM E REINICIE O COMPUTADOR E VERIFIQUE SE O WI-FI DO COMPUTADOR ASTÁ ATIVO<br>______________________________<br><br>
+ESPERE OS PROCESSOS TERMINAREM E REINICIE O COMPUTADOR E VERIFIQUE SE O WI-FI DO COMPUTADOR ESTÁ ATIVO<br>______________________________<br><br>
 <br><br>
 
 <span>REMOVENDO O DRIVER</span><br>
