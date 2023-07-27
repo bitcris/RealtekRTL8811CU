@@ -4,7 +4,7 @@ Testado no kernel 5.19.0-50
 
 
 
-Arquiteturas de  CPU compatíveis
+<b>Arquiteturas de  CPU compatíveis<b> <br>
 x86, i686
 x86-64, amd64
 armv6l, armv7l (arm)
