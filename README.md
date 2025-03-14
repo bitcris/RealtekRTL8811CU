@@ -13,9 +13,7 @@ aarch64 (arm64) <br>
 
 
 <br>
-Se você está usando tradutor nesta página, poderá encontrar erros nos comandos <br>
-recomendo acessar o <a href="https://meu-ip.ddns.net/posts/RealtekRTL8811CU.php">site</a> para códigos mais precisos <br>
-ou coloque o idioma da página em inglês, ou desative a tradução
+
 
 VERIFIQUE SE EXISTE ALGUM DRIVER INSTALADO COM O COMANDO
 <pre>sudo dkms status</pre>______________________________<br><br>
