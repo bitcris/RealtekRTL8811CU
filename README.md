@@ -1,6 +1,8 @@
-# Realtek RTL8811CU para Ubuntu 22.04
+# Realtek RTL8811CU para Ubuntu 22.04 e Debian 
 Driver Realtek RTL8811CU para Linux Ubuntu
-Testado no kernel 5.19.0-50
+Testado no kernel: 
+5.19.0-50
+6.1.0-32
 
 
 
